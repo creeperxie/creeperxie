@@ -15,10 +15,10 @@
 
 ## GitHub Readme Stats
 
-[![Creeperxie's GitHub stats](https://github-readme-stats-kappa-sepia-70.vercel.app/api?username=creeperxie&count_private=true&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+[![Creeperxie's GitHub stats](https://github-readme-stats-seven-indol-44.vercel.app/api?username=creeperxie&count_private=true&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-kappa-sepia-70.vercel.app/api/top-langs/?username=creeperxie&theme=catppuccin_mocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-seven-indol-44.vercel.app/api/top-langs/?username=creeperxie&theme=catppuccin_mocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Creeperxie's Wakatime stats](https://github-readme-stats-kappa-sepia-70.vercel.app/api/wakatime?username=creeperxie&api_domain=wakapi.dev&theme=catppuccin_mocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Creeperxie's Wakatime stats](https://github-readme-stats-seven-indol-44.vercel.app/api/wakatime?username=creeperxie&api_domain=wakapi.dev&theme=catppuccin_mocha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=creeperxie&theme=catppuccin-mocha)](https://git.io/streak-stats)
